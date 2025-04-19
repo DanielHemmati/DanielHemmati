@@ -10,7 +10,7 @@
 
 - [build your own wc in Go](https://github.com/DanielHemmati/ccwc-in-go)
 - [smolaboutme.com](https://github.com/DanielHemmati/smolaboutme.com)
-  - Notion-style editor for creating and publishing customizable “About” pages, designed for simplicity and ease of sharing. 
+  - Notion-style editor for creating and publishing customizable “About” pages, designed for simplicity and ease of sharing.
 - [asciidance](https://github.com/DanielHemmati/asciidance)
   - Animate any gifs in your terminal
 
@@ -32,7 +32,7 @@ I will add all of these list in my [website](https://danielhemmati.com)
 - Now focused on building and shipping indie products solo
 - Worked for ~2 years in a development team where I:
   - Introduced **Next.js** to modernize the frontend stack
-  - Built a custom **Python logging engine** for scalable observability
+  - Built a custom **Python logging engine**.
   - Designed and implemented a **coding challenge** to assess and hire apprentices
 - Former bug bounty hunter found real-world vulnerabilities (2020)
 - Top 1% TryHackMe CTF player [link](https://tryhackme.com/p/alpha21) (2019)
