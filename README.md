@@ -16,6 +16,18 @@
 
 I will add all of these list in my [website](https://danielhemmati.com)
 
+---
+
+## 💼 Background
+
+- Now focused on building and shipping indie products solo
+- Worked for ~2 years in a development team where I:
+  - Introduced **Next.js** to modernize the frontend stack
+  - Built a custom **Python logging engine** for scalable observability
+  - Designed and implemented a **coding challenge** to assess and hire apprentices
+- Former bug bounty hunter found real-world vulnerabilities (2020)
+- Top 1% TryHackMe CTF player [link](https://tryhackme.com/p/alpha21) (2019)
+
 
 ## 🧠 Skills
 
@@ -41,18 +53,6 @@ I will add all of these list in my [website](https://danielhemmati.com)
 - GitHub Actions
 - Ansible
 - Prometheus & Grafana
-
----
-
-## 💼 Background
-
-- Now focused on building and shipping indie products solo
-- Worked for ~2 years in a development team where I:
-  - Introduced **Next.js** to modernize the frontend stack
-  - Built a custom **Python logging engine** for scalable observability
-  - Designed and implemented a **coding challenge** to assess and hire apprentices
-- Former bug bounty hunter found real-world vulnerabilities (2020)
-- Top 1% TryHackMe CTF player [link](https://tryhackme.com/p/alpha21) (2019)
 
 ---
 
