@@ -16,8 +16,6 @@
 
 ---
 
----
-
 ## 🔥 Currently
 
 - Working mainly with **Laravel**, building indie products that solve real problems
