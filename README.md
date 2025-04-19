@@ -4,6 +4,17 @@
 
 // TODO: Write a serious intro.
 
+---
+
+## 🔥 Selected Projects
+
+- [build your own wc in Go](https://github.com/DanielHemmati/ccwc-in-go)
+- [smolaboutme.com](https://github.com/DanielHemmati/smolaboutme.com)
+  - Notion-style editor for creating and publishing customizable “About” pages, designed for simplicity and ease of sharing. 
+- [asciidance](https://github.com/DanielHemmati/asciidance)
+  - Animate any gifs in your terminal
+
+---
 
 ---
 
