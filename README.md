@@ -37,7 +37,6 @@ I will add all of these list in my [website](https://danielhemmati.com)
 - Former bug bounty hunter found real-world vulnerabilities (2020)
 - Top 1% TryHackMe CTF player [link](https://tryhackme.com/p/alpha21) (2019)
 
-
 ## 🧠 Skills
 
 ### 🖥 Programming Languages
@@ -56,7 +55,7 @@ I will add all of these list in my [website](https://danielhemmati.com)
 
 ### ⚙️ DevOps & Systems
 
-- Kubernetes (CKA, CKAD)
+- Kubernetes ([CKA](https://www.credly.com/badges/ec89b930-ebf4-4c42-88ed-32e89b067497/public_url), [CKAD](https://www.credly.com/badges/91380db3-6f1d-45b6-a422-765b7f2ca0af))
   - Got Cert b/c I wanted to know when to not use Kubernetes 💀
 - Docker
 - GitHub Actions
@@ -64,4 +63,3 @@ I will add all of these list in my [website](https://danielhemmati.com)
 - Prometheus & Grafana
 
 ---
-
