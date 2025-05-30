@@ -9,7 +9,7 @@
 ## 🔥 Selected Projects
 
 - [l-8-n.com](https://github.com/DanielHemmati/l-8-n.com)
-  - What started as a “just-for-fun” experiment, How much of n8n could I rebuild in Laravel? has grown into a working demo that connects together nodes and triggers.
+  - This project began as a fun challenge to see how much of n8n I could recreate with Laravel. Over time, it has developed into a working demo that successfully links nodes and triggers.
 - [build your own wc in Go](https://github.com/DanielHemmati/ccwc-in-go)
 - [smolaboutme.com](https://github.com/DanielHemmati/smolaboutme.com)
   - Notion-style editor for creating and publishing customizable “About” pages, designed for simplicity and ease of sharing.
