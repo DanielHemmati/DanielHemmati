@@ -25,8 +25,6 @@
 - Building from scratch using: [build your own x](https://github.com/codecrafters-io/build-your-own-x), [coding Challenge](https://codingchallenges.fyi/), [software design by exmaple in python](https://third-bit.com/sdxpy/intro/)
 - Trying to learn ai stuff using: [fast.ai](https://course.fast.ai/), [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html), [neural network from scratch](https://nnfs.io/),
 
-I will add all of these list in my [website](https://danielhemmati.com)
-
 ---
 
 ## 💼 Background
