@@ -10,7 +10,8 @@
 
 - [l-8-n.com](https://github.com/DanielHemmati/l-8-n.com)
   - This project began as a fun challenge to see how much of n8n I could recreate with Laravel. Over time, it has developed into a working demo that successfully links nodes and triggers.
-- [build your own wc in Go](https://github.com/DanielHemmati/ccwc-in-go)
+- [Json parser in php](https://github.com/DanielHemmati/json-parser-in-php)
+  - 🔍 A fully custom JSON parser written in PHP from scratch — built to understand how parsing works under the hood without relying on `json_decode()`
 - [smolaboutme.com](https://github.com/DanielHemmati/smolaboutme.com)
   - Notion-style editor for creating and publishing customizable “About” pages, designed for simplicity and ease of sharing.
 - [asciidance](https://github.com/DanielHemmati/asciidance)
