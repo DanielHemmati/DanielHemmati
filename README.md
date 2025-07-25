@@ -20,7 +20,6 @@
 ## ⚡ Currently
 
 - Working mainly with **Laravel**, building indie products that solve real problems
-- Working on my favirote open source project [Here is the list](https://www.notion.so/danielhemmati/18946e864d2580539649fd6633f83f54?v=19b46e864d258074807a000cace77eb4&source=copy_link)
 - Building from scratch using: [build your own x](https://github.com/codecrafters-io/build-your-own-x), [coding Challenge](https://codingchallenges.fyi/), [software design by exmaple in python](https://third-bit.com/sdxpy/intro/)
 - Trying to learn ai stuff using: [fast.ai](https://course.fast.ai/), [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html), [neural network from scratch](https://nnfs.io/)
 
