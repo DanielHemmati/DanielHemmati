@@ -19,10 +19,9 @@
 
 ## ⚡ Currently
 
-- Working mainly with **Laravel**, building indie products that solve real problems
-- Building from scratch using: [build your own x](https://github.com/codecrafters-io/build-your-own-x), [coding Challenge](https://codingchallenges.fyi/), [software design by exmaple in python](https://third-bit.com/sdxpy/intro/)
-- Trying to learn ai stuff using: [fast.ai](https://course.fast.ai/), [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html), [neural network from scratch](https://nnfs.io/)
-
+- Getting deeper into the DevOps world → AWS, Kubernetes, performance optimization, CI/CD, and more.
+- Contributing to open source, mostly through [Algora](https://algora.io/DanielHemmati)
+- Rebuilding my favorite tools from scratch → Docker, Kubernetes (in progress).
 
 ## 💼 Background
 
