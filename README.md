@@ -25,7 +25,6 @@
 
 ## Background
 
-- Now focused on building and shipping indie products solo
 - Worked for ~2 years in a development team where I:
   - Introduced **Next.js** to modernize the frontend stack
   - Built a custom **logging engine** in python.
@@ -33,13 +32,21 @@
 - Former bug bounty hunter found real-world vulnerabilities (2020)
 - Top 1% TryHackMe CTF player [link](https://tryhackme.com/p/alpha21) (2019)
 
+### DevOps & Systems
+
+- AWS
+- Kubernetes ([CKA](https://www.credly.com/badges/ec89b930-ebf4-4c42-88ed-32e89b067497/public_url), [CKAD](https://www.credly.com/badges/91380db3-6f1d-45b6-a422-765b7f2ca0af))
+- Docker
+- GitHub Actions
+- Ansible
+- Prometheus & Grafana
 
 ### Programming Languages
 
 - TypeScript
 - PHP
 - Python
-- Go (learning)
+- Go
 
 ### Frameworks & Libraries
 
@@ -47,14 +54,5 @@
 - Next.js
 - Astro
 - Tailwind CSS
-
-### DevOps & Systems
-
-- Kubernetes ([CKA](https://www.credly.com/badges/ec89b930-ebf4-4c42-88ed-32e89b067497/public_url), [CKAD](https://www.credly.com/badges/91380db3-6f1d-45b6-a422-765b7f2ca0af))
-  - Got Cert b/c I wanted to know when to not use Kubernetes 💀
-- Docker
-- GitHub Actions
-- Ansible
-- Prometheus & Grafana
 
 ---
