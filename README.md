@@ -20,7 +20,6 @@
 ## Currently
 
 - Getting deeper into the DevOps world → AWS, Kubernetes, performance optimization, CI/CD, and more.
-- Contributing to open source, mostly through [Algora](https://algora.io/DanielHemmati)
 - Rebuilding my favorite tools from scratch → Docker, Kubernetes (in progress).
 
 ## Background
