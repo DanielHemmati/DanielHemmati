@@ -42,10 +42,10 @@
 
 ### Programming Languages
 
+- Go
+- Python
 - TypeScript
 - PHP
-- Python
-- Go
 
 ### Frameworks & Libraries
 
