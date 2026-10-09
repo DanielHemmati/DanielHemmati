@@ -8,19 +8,16 @@
 
 ## Selected Projects
 
-- [l-8-n.com](https://github.com/DanielHemmati/l-8-n.com)
-  - This project began as a fun challenge to see how much of n8n I could recreate with Laravel. Over time, it has developed into a working demo that successfully links nodes and triggers.
+- [CVAsCode](https://github.com/DanielHemmati/CVAsCode)
+  - Deploying an index.html file is easy. Building a secure, reliable website that can serve millions of visitors is a different challenge.
+- [yakstack](https://github.com/DanielHemmati/yakstack)
+  - A hands-on infrastructure engineering playground for exploring cloud, DevOps, Kubernetes, automation, and distributed systems through real-world projects.
+- [ccwc-in-go](https://github.com/DanielHemmati/ccwc-in-go)
+  - A lightweight reimplementation of the Unix wc command, built from scratch in Go to explore file I/O, text processing, and CLI development.
 - [Json parser in php](https://github.com/DanielHemmati/json-parser-in-php)
   - A fully custom JSON parser written in PHP from scratch — built to understand how parsing works under the hood without relying on `json_decode()`
-- [smolaboutme.com](https://github.com/DanielHemmati/smolaboutme.com)
-  - Notion-style editor for creating and publishing customizable “About” pages, designed for simplicity and ease of sharing.
-- [asciidance](https://github.com/DanielHemmati/asciidance)
-  - Animate any gifs in your terminal
-
-## Currently
-
-- Getting deeper into the DevOps world → AWS, Kubernetes, performance optimization, CI/CD, and more.
-- Rebuilding my favorite tools from scratch → Docker, Kubernetes (in progress).
+- WIP: [tiny-inference](https://github.com/DanielHemmati/tiny-inference)
+  - Tiny Inference is a small single-GPU lab for learning inference engineering across different AI modalities, starting with LLMs and later expanding to vision, audio, and multimodal models by serving them, measuring their behavior, and experimenting with core concepts like latency, batching, KV cache, and quantization.
 
 ## Background
 
